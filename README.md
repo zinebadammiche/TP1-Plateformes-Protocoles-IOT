@@ -135,7 +135,7 @@ GitHub (push/commit) →  Slack (notification équipe)
 ---
 
 ## 📖 Documentation
-Le rapport complet (format LaTeX) est disponible dans le repository et couvre :
+Le rapport complet (format LaTeX) est disponible sur https://www.overleaf.com/project/68f55bbbb5431ac989a799be et couvre :
 - Configuration matérielle et logicielle
 - Codes sources commentés
 - Schémas de montage
