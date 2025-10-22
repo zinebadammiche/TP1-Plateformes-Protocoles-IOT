@@ -119,7 +119,7 @@ Ce repository contient l'ensemble des travaux pratiques réalisés dans le cadre
 - **Configurer le baud rate** : **9600 bauds**
 - **Format** : **8N1** (8 data bits, No parity, 1 stop bit)
 
----
+```
 
 ## 📊 Méthodologie de travail
 
